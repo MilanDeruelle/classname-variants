@@ -13,7 +13,7 @@ import {
   VariantsConfig,
   VariantOptions,
   Simplify,
-} from ".";
+} from "./index.js";
 
 /**
  * Utility type to infer the first argument of a variantProps function.
